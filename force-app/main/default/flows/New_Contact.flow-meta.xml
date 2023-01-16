@@ -141,7 +141,7 @@
             <name>confirmation_message_0</name>
             <dataType>String</dataType>
             <defaultValue>
-                <stringValue>Gracias tu contacto fue {!created_or_updated}</stringValue>
+                <stringValue>Gracias por utilizar flow, tu contacto fue {!created_or_updated}</stringValue>
             </defaultValue>
             <fieldText>Mensaje de Confirmación</fieldText>
             <fieldType>InputField</fieldType>
